@@ -1,0 +1,2 @@
+# faq
+Find out more
